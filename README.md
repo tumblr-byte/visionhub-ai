@@ -65,5 +65,5 @@ Dataset used:
 
 ## Summary
 
-VisionHub-AI demonstrates how to combine instance segmentation with classification and recognition features in a modular and interactive Django web application.
+visionhub-ai demonstrates how to combine instance segmentation with classification and recognition features in a modular and interactive Django web application.
 
