@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/e5db962e-8b50-4234-bd06-877beac35a35)
 
-Visionhub-ai is a Django-based application that demonstrates a powerful pipeline combining **YOLOv11n-seg (instance segmentation)** with bird classification and face recognition features.
+visionhub-ai is a Django-based application that demonstrates a powerful pipeline combining **YOLOv11n-seg (instance segmentation)** with bird classification and face recognition features.
 
 ## Pipeline Overview
 
